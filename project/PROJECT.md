@@ -1,10 +1,10 @@
 # Fill out your Project Information
 
-Student1: \<name-1>
+Student1: Sophia Gaupp
 
-Student2: \<name-2>
+Student2: Peter Brederlow
 
-Project Github url: \<github-url> 
+Project Github url: [\<github-url> ](https://github.com/sphia-g/pipeline-project)
 
 
 # Next steps
