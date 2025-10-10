@@ -4,7 +4,7 @@ Student1: Sophia Gaupp
 
 Student2: Peter Brederlow
 
-Project Github url: [\<github-url> ](https://github.com/sphia-g/pipeline-project)
+Project Github url: https://github.com/sphia-g/pipeline-project
 
 
 # Next steps
